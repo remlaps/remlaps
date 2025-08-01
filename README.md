@@ -1,6 +1,4 @@
-# 👋 Hello!
-
-Welcome to my GitHub profile!  
+# 👋 Hello, and Welcome to my GitHub profile!  
   
 I'm a hobby programmer who builds for the Steem blockchain.
 
@@ -19,7 +17,13 @@ A browser extension designed to enhance curation and user experience on Steem.
   
 You can get it from the Chrome Store: [Steem Curation Extension](https://chromewebstore.google.com/detail/steem-curation-extension/edkgjcmgiagpagmikifiecjgglccmome).
 
-## 📫 Connect With Me
+### [Simple Steem Block Explorer](https://github.com/remlaps/steemExplorer)
+
+View current blockchain properties or look-up Steem blocks, accounts, or transactions in a browser extension.  
+
+You can get it from the Chrome Store: [Simple Steem Block Explorer](https://chromewebstore.google.com/detail/klmfogefhmmekdbdaipnajnbhodocndg?utm_source=item-share-cb)
+
+## 📫 More
 
 - Check out my projects and updates on Steemit:  
   [https://steemit.com/@remlaps](https://steemit.com/@remlaps)
