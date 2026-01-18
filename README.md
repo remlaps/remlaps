@@ -17,6 +17,9 @@ A browser extension designed to enhance curation and user experience on Steem.
   
 You can get it from the Chrome Store: [Steem Curation Extension](https://chromewebstore.google.com/detail/steem-curation-extension/edkgjcmgiagpagmikifiecjgglccmome).
 
+### [Alternative Methods for Base Conversion](https://github.com/remlaps/PascalTriangleBaseConversions)
+A browser extension (code by Google Gemini) that implements the base conversion methods from [Alternative Algorithms for Base Conversion (Steve Palmer, 2007, unpublished)](https://github.com/remlaps/PascalTriangleBaseConversions/blob/master/AlternateBaseConversionAlgorithms.pdf).  These use matrix multiplication to perform vector-oriented base conversions when one base is a multiple of another or using the offset between bases.
+
 ### [Simple Steem Block Explorer](https://github.com/remlaps/steemExplorer)
 
 View current blockchain properties or look-up Steem blocks, accounts, or transactions in a browser extension.  
