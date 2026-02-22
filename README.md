@@ -1,6 +1,6 @@
 # 👋 Hello, and Welcome to my GitHub profile!  
   
-I'm a hobby programmer who builds for the Steem blockchain.
+I'm a hobby programmer who builds for the Steem blockchain with an interest in the intersection of software architecture and decentralized incentive structures.
 
 ## 🛠️ Skills & Technologies
 - **Python**: Bots
@@ -10,7 +10,16 @@ I'm a hobby programmer who builds for the Steem blockchain.
 ## 🚀 Top Projects
 
 ### [Thoth](https://github.com/remlaps/thoth)
-A first of its kind [Generation-5 voting service](https://steemit.com/steem-dev/@remlaps/here-is-a-complete-framework) for Steem.  Leverages LLMs and Steem beneficiary rewards to harmonize incentives for investors and creators.
+
+Thoth is effectively an automated content evaluation and incentive management engine built on a public blockchain.
+
+As a first of its kind [Generation-5 voting service](https://steemit.com/steem-dev/@remlaps/here-is-a-complete-framework) for the Steem blockchain, *Thoth* integrates LLM-based evaluation and automated post summaries with programmable beneficiary rewards to align incentives among content creators, delegators, operators, and other stakeholders.
+
+<p align="center">
+  <img src="ThothFlywheelImage20260215.png" alt="Thoth Flywheel Incentive Model" width="500">
+</p>
+
+Rather than simply upvoting posts, Thoth uses AI to create a self-reinforcing incentive cycle designed to incubate long-term value and enhance the ecosystem for human stakeholders.
 
 ### [Steem Curation Extension](https://github.com/remlaps/steem-curation-extension)
 A browser extension designed to enhance curation and user experience on Steem.  
@@ -32,5 +41,3 @@ You can get it from the Chrome Store: [Simple Steem Block Explorer](https://chro
   [https://steemit.com/@remlaps](https://steemit.com/@remlaps)
 
 ---
-
-Thanks for stopping by!
