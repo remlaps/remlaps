@@ -1,6 +1,6 @@
 # 👋 Hello, and Welcome to my GitHub profile!  
   
-I'm a hobby programmer who builds for the Steem blockchain.  I am interested in using software to optimize decentralized incentive structures in order to improve the blockchain-experience for humans.
+I'm a hobby programmer who builds for the Steem blockchain.  I am interested in enhancing the blockchain-experience for humans by organizing software, AI, and decentralized incentive structures.
 
 ## 🛠️ Skills & Technologies
 - **Python**: Bots
