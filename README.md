@@ -15,9 +15,14 @@ Thoth can be viewed as an automated content evaluation system and incentive mana
 
 As a first of its kind [Generation-5 voting service](https://steemit.com/steem-dev/@remlaps/here-is-a-complete-framework) for the Steem blockchain, *Thoth* integrates LLM-based evaluation and automated post summaries with programmable beneficiary rewards to align incentives among content creators, delegators, operators, and other stakeholders.
 
-<p align="center">
-  <img src="ThothFlywheelImage20260215.png" alt="Thoth Flywheel Incentive Model" width="500">
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="ThothFlywheelImage20260215.png" alt="Thoth Flywheel Incentive Model" width="500"><br>
+      <sub><b>Thoth Flywheel – Incentive Alignment Model</b></sub>
+    </td>
+  </tr>
+</table>
 
 Rather than simply upvoting posts, Thoth uses AI and blockchain features to create a self-reinforcing incentive cycle that was designed to incubate long-term value and enhance the ecosystem for human stakeholders.
 
