@@ -1,6 +1,6 @@
 # 👋 Hello, and Welcome to my GitHub profile!  
   
-I'm a hobby programmer who builds for the Steem blockchain.  I am interested in enhancing the blockchain-experience for humans by organizing software, AI, and decentralized incentive structures.
+I'm a hobby programmer who builds for the Steem blockchain.  I am interested in enhancing the blockchain experience for humans by orchestrating software, AI, and decentralized incentive structures.
 
 ## 🛠️ Skills & Technologies
 - **Python**: Bots
@@ -11,7 +11,7 @@ I'm a hobby programmer who builds for the Steem blockchain.  I am interested in 
 
 ### [Thoth](https://github.com/remlaps/thoth)
 
-Thoth can be viewed as an automated content evaluation system and incentive management engine that is built on a public blockchain.
+Thoth is an automated content evaluation system and incentive management engine that is built on a public blockchain.
 
 As a first of its kind [Generation-5 voting service](https://steemit.com/steem-dev/@remlaps/here-is-a-complete-framework) for the Steem blockchain, *Thoth* integrates LLM-based evaluation and automated post summaries with programmable beneficiary rewards to align incentives among content creators, delegators, operators, and other stakeholders.
 
