@@ -26,6 +26,9 @@ As a first of its kind [Generation-5 voting service](https://steemit.com/steem-d
 
 Rather than simply upvoting posts, Thoth uses AI and blockchain features to create a self-reinforcing incentive cycle that was designed to incubate long-term value and enhance the ecosystem for human stakeholders.
 
+### [linkedListOnSteem](https://github.com/remlaps/linkedListOnSteem)
+A Python library for creating and managing immutable, append-only linked lists using ```custom_json``` transactions on the Steem blockchain. It uses an efficient off-chain indexing strategy that avoids full blockchain scans, making it a robust tool for on-chain data management and state tracking.
+
 ### [Steem Curation Extension](https://github.com/remlaps/steem-curation-extension)
 A browser extension designed to enhance curation and user experience on Steem.  
   
