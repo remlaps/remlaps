@@ -43,9 +43,13 @@ A browser extension (code by Google Gemini) that implements the integer base con
 
 ### [Simple Steem Block Explorer](https://github.com/remlaps/steemExplorer)
 
-View current blockchain properties or look-up Steem blocks, accounts, or transactions in a browser extension.  
+View current blockchain properties or look-up Steem blocks, accounts, or transactions in a browser extension.
 
 You can get it from the Chrome Store: [Simple Steem Block Explorer](https://chromewebstore.google.com/detail/klmfogefhmmekdbdaipnajnbhodocndg?utm_source=item-share-cb)
+
+### [Steemometer: Visibility As A Service](https://remlaps.github.io/steemometer-web/)
+
+Transaction count statistics, large transfer notifications, and *visibility as a service (VAAS)* for Steem accounts that utilize the burn mechanism.  The VAAS section includes: [Promoted posts](https://steemit.com/promoted), posts with [burn beneficiary settings](https://steemit.com/created/burnsteem25), and "broadcast messages" from STEEM or SBD transfers to the ```null``` account.  It is shuffled in proporation to the burn amounts or percentages.
 
 ## 📫 More
 
