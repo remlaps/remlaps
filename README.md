@@ -30,7 +30,7 @@ Rather than simply upvoting posts, Thoth uses AI and blockchain features to crea
 
 A browser extension that adds side-by-side editor preview capability to [Condenser](https://github.com/steemit/condenser) websites on the Steem blockchain (like Steemit).  No more scrolling past hundreds or thousands of words to see the effects of an editing change.  Stay tuned.  Other enhancements may be coming.
 
-### [animalCard]([https://github.com/remlaps/linkedListOnSteem](https://github.com/remlaps/animalCards))
+### [animalCards](https://github.com/remlaps/animalCards)
 A collectible wildlife card game where cards are distributed as a result of competitive burn activity on the Steem blockchain. ([demo](https://remlaps.github.io/animalCards/)).
 
 ### [Steem Curation Extension](https://github.com/remlaps/steem-curation-extension)
